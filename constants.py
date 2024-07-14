@@ -1,0 +1,9 @@
+DIGITS_ICON = ["0️⃣", "1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣", "8️⃣", "9️⃣"]
+SETTING_MESSAGE = "What type of field do you prefer?"
+CHOSE_SKIN_MESSAGE = "Choose a skin: "
+SHOP_MESSAGE = "🛍️ Shop 🛍️"
+X_SKIN_BUTTON_TEXT = "❌ skins"
+O_SKIN_BUTTON_TEXT = "⭕ skins"
+X_SKIN_SHOP_EMPTY_MSG = "You have already purchased all skins for X"
+O_SKIN_SHOP_EMPTY_MSG = "You have already purchased all skins for O"
+SKIN_ADDED_TO_COLLECTION = "The skin has been added to your collection"
